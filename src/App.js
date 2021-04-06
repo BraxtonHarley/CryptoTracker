@@ -32,7 +32,7 @@ function App() {
     <div className="app">
       <div className='coin-search'>
         <h1 className='coin-text'>
-          Crypto Tracker
+          Crypto Tracker 🚀🚀
         </h1>
         <form>
           <input 
