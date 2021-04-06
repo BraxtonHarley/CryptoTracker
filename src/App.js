@@ -32,13 +32,13 @@ function App() {
     <div className="app">
       <div className='coin-search'>
         <h1 className='coin-text'>
-          Search a currency
+          Crypto Tracker
         </h1>
         <form>
           <input 
             className='coin-input'
             type='text' 
-            placeholder='Search...'
+            placeholder='Search Crypto Coin...'
             onChange={handleChange} />
         </form>
       </div>
